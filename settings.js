@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==QUZFUWq9mM5cjWExEa6pHd4VVV19lRvl2X5hlMxJzMuVHZ3AjSTlzZX5mYjMERRJDMWVEOpwd=55909838749',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wZoZWT5lDM6VHdOZGTwhmaoR0TrV2YSlEewRmROd2UB50NYFmU35mdZVldjolYUZ0VjplTpwd=70833937749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -28,15 +28,15 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: ':| 𝙽𝙸𝙼𝙽𝙰𝙳𝙰',
-  OWNER_NUMBER: '94783890955',
+  OWNER_NAME: 'MADUWA',
+  OWNER_NUMBER: '94773933807',
   SUDO: '94764984597',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  STICKER_PACK: 'ッッ 𝙳𝙰𝚁𝙺 𝚃𝙴𝙲𝙷-𝚇𝙳',
+  STICKER_PACK: '𝙳𝙰𝚁𝙺 𝚃𝙴𝙲𝙷',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90, //size in MB
   OWNER_R_EMOJI: '💻',
